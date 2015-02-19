@@ -1,8 +1,8 @@
 # Site settings
-title: YetiSaver
+title: CoolerSaver
 email: me@claytonerrington.com
 url: http://yetisaver.github.io/
-description: "Save your Yeti Cooler today with your new YetiSaver."
+description: "Save your cooler today with your new CoolerSaver."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -15,7 +15,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: YetiSaver
+  copyright: CoolerSaver
   location: Location
   social: Around the Web
   credits: Credits
