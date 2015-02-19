@@ -39,7 +39,7 @@ address:
   - line: Lubbock, TX 79401
 
 # Credits content
-credits: 'Site made by <a href="http://claytonerrington.com/>Clayton Errington</a>'
+credits: 'Site made by <a href="http://claytonerrington.com/">Clayton Errington</a>'
 
 # Build settings
 markdown: kramdown
