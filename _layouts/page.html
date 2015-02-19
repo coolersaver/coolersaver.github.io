@@ -4,19 +4,21 @@
   <body id="page-top" class="index">
   {% include nav-page.html %}
 
-  <!-- Page Section -->
-    <section id="about">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2>{{ page.title }}</h2>
-            <hr class="star-primary">
-          </div>
+     <!-- About Section -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>{{ page.title }}</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p>{{ content }}</p>
+                </div>
+            </div>
         </div>
-        <div class="row">
-          {{ content }}
-        </div>
-      </div>
     </section>
 
   {% include footer.html %}
